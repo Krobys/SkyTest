@@ -5,6 +5,7 @@ JDK: corretto-17
 
 I made the design the same as suggested in the task. Of course, it could have been improved, for example, by adding 'back' buttons or a 'read more' option on the text in the list. I decided to keep the design that was suggested but filled it with my own test data. I generated articles about cats.
 
+Edge-to-edge app.
 DI - Hilt.
 UI - Jetpack Compose.
 For architecture, I chose Clean Architecture with the application of the MVVM pattern.
@@ -16,3 +17,8 @@ I use a repository, because it allows for data caching using, let's say, Room, a
 I wrote a couple of unit tests for SkyNewsViewModel and SkyStoryViewModel.
 
 Also, I apologize for pushing this to GitHub in one commit, rather than with history. You probably would have liked to see that.
+
+Demo video:
+
+https://github.com/Krobys/SkyTest/assets/48987746/84969698-186f-447e-9949-0fcb292bc419
+
