@@ -1,0 +1,161 @@
+{
+  "title": "Sky Cat News",
+  "data": [
+    {
+      "id": "1",
+      "type": "story",
+      "headline": "Mysterious Cat Saves Local Family",
+      "teaserText": "A mysterious neighborhood cat has become a local hero after...",
+      "creationDate": "2023-08-03T10:00:00Z",
+      "modifiedDate": "2023-08-03T12:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://www.thesprucepets.com/thmb/jIEvS_jxy1-M4oLqk6w1ZqfXfWU=/1500x0/filters:no_upscale():strip_icc()/facts-about-tuxedo-cats-554704-hero-6fcf332fd5ee4d93aecc4bcd3657396c.jpg",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "A hero cat standing on a garden fence."
+      }
+    },
+    {
+      "type": "advert",
+      "url": "https://advert-url.com"
+    },
+    {
+      "id": "2",
+      "type": "story",
+      "headline": "Top 5 Cutest Kittens of the Week",
+      "teaserText": "We've searched high and low for the cutest kittens. Here's our top 5...",
+      "creationDate": "2023-08-04T09:00:00Z",
+      "modifiedDate": "2023-08-04T09:30:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://i.chzbgr.com/original/20564229/h1F6CACB7/two-pictures-including-someone-holding-a-kitten-in-their-hands-and-an-orange-kitten-with-large-eyes",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Five kittens playing in a basket."
+      }
+    },
+    {
+      "type": "advert",
+      "url": "https://advert-url.com"
+    },
+    {
+      "id": "3",
+      "type": "weblink",
+      "headline": "Homemade Cat Toys Tutorial",
+      "weblinkUrl": "https://www.care.com/c/en-gb/diy-cat-toys/#:~:text=Start%20by%20cutting%20colourful%20felt,catnip%20shape%20with%20hot%20glue.",
+      "creationDate": "2023-08-04T10:00:00Z",
+      "modifiedDate": "2023-08-04T11:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://rawznaturalpetfood.com/wp-content/uploads/Best-homemade-cat-toys-.png",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Homemade cat toys arranged on a table."
+      }
+    },
+    {
+      "id": "4",
+      "type": "story",
+      "headline": "The Science Behind Cats' Nine Lives",
+      "teaserText": "Ever wondered why cats are said to have nine lives? We delve into the science behind...",
+      "creationDate": "2023-08-02T10:00:00Z",
+      "modifiedDate": "2023-08-02T11:30:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3cNW7moUjTanuRVmqaDI8VxfRXfUCZTkXg&usqp=CAU",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "A cat mid-jump, appearing to 'fly'."
+      }
+    },
+    {
+      "id": "5",
+      "type": "weblink",
+      "headline": "Best Local Cat Cafes",
+      "weblinkUrl": "https://www.kittycafe.co.uk/",
+      "creationDate": "2023-08-01T15:00:00Z",
+      "modifiedDate": "2023-08-01T16:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://thelondonlocal.com/wp-content/uploads/2022/07/java-whiskers-london-cat-cafe-great-portland-street-best-cat-cafes-in-london.jpg",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "Interior of a cozy cat cafe filled with cats."
+      }
+    },
+    {
+      "id": "6",
+      "type": "story",
+      "headline": "The Art of Cat Photography: Top Tips",
+      "teaserText": "Want to capture the perfect shot of your feline friend? Our experts share their tips...",
+      "creationDate": "2023-08-05T11:00:00Z",
+      "modifiedDate": "2023-08-05T12:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://digital-photography-school.com/wp-content/uploads/2023/05/cat-photography-tips-444.jpg",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "A professionally taken photo of a cat."
+      }
+    },
+    {
+      "type": "advert",
+      "url": "advert/url"
+    },
+    {
+      "id": "7",
+      "type": "weblink",
+      "headline": "The Coolest Cat Tree Designs",
+      "weblinkUrl": "https://designwanted.com/cat-tree-designs/",
+      "creationDate": "2023-08-05T13:00:00Z",
+      "modifiedDate": "2023-08-05T14:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://publish.purewow.net/wp-content/uploads/sites/2/2022/05/unique-cat-trees-cat.jpg?resize=720%2C580",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "A modern cat tree with multiple platforms and a sleeping pod."
+      }
+    },
+    {
+      "id": "8",
+      "type": "story",
+      "headline": "The Unlikely Friendship Between a Cat and a Dog",
+      "teaserText": "In a quiet suburb, a cat and a dog have formed an unlikely bond. Read their heartwarming story...",
+      "creationDate": "2023-08-06T10:00:00Z",
+      "modifiedDate": "2023-08-06T12:00:00Z",
+      "teaserImage": {
+        "_links": {
+          "url": {
+            "href": "https://cats.com/wp-content/uploads/2016/07/2-Cat-and-Dogfriendships2.jpg",
+            "templated": false,
+            "type": "image/jpeg"
+          }
+        },
+        "accessibilityText": "A cat and a dog sitting together peacefully."
+      }
+    }
+  ]
+}

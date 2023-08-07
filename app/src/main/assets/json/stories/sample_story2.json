@@ -1,0 +1,65 @@
+{
+  "id": "2",
+  "headline": "Top 5 Cutest Kittens of the Week",
+  "heroImage": {
+    "imageUrl": "https://i.chzbgr.com/original/20564229/h1F6CACB7/two-pictures-including-someone-holding-a-kitten-in-their-hands-and-an-orange-kitten-with-large-eyes",
+    "accessibilityText": "Five kittens playing in a basket."
+  },
+  "creationDate": "2023-08-04T09:00:00Z",
+  "modifiedDate": "2023-08-04T09:30:00Z",
+  "contents": [
+    {
+      "type": "paragraph",
+      "text": "We've searched high and low for the cutest kittens. Here's our top 5:"
+    },
+    {
+      "type": "image",
+      "url": "https://w0.peakpx.com/wallpaper/362/874/HD-wallpaper-sweetness-with-blue-eyes-persian-resting-white-kitten-blue-eyes.jpg",
+      "accessibilityText": "Fluffy, a white Persian kitten with blue eyes."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Fluffy - This little white Persian kitten with sky-blue eyes will make you say 'aww'."
+    },
+    {
+      "type": "image",
+      "url": "https://i.ytimg.com/vi/hAkiJBM94bM/maxresdefault.jpg",
+      "accessibilityText": "Mittens, a gray British Shorthair kitten playing with a ball."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Mittens - This playful British Shorthair is as cute as they come, especially when she's chasing after her favorite ball."
+    },
+    {
+      "type": "image",
+      "url": "https://media.istockphoto.com/id/1191645269/photo/bengal-kitten-jumps.jpg?s=612x612&w=0&k=20&c=0ZUtN6aJchepILDG1KY3FVkrwnhrBdcMDOw-i-KtU1I=",
+      "accessibilityText": "Stripes, a Bengal kitten leaping in the air."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Stripes - With his striking coat and boundless energy, this Bengal kitten is a joy to watch."
+    },
+    {
+      "type": "image",
+      "url": "https://img.myloview.com/murals/majestic-black-smoke-maine-coon-kitten-laying-down-facing-front-looking-at-camera-with-shiney-brown-golden-eyes-isolated-on-white-background-paws-hanging-over-edge-700-209462332.jpg",
+      "accessibilityText": "Bella, a black Maine Coon kitten staring at the camera."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Bella - This Maine Coon kitten has a serious expression, but her fluffy fur and sweet nature make her incredibly cute."
+    },
+    {
+      "type": "image",
+      "url": "https://st2.depositphotos.com/1067633/11032/i/950/depositphotos_110329834-stock-photo-orange-tabby-cat-happily-sleeping.jpg",
+      "accessibilityText": "Tiger, an orange tabby kitten sleeping in a basket."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Tiger - There's nothing cuter than a sleeping kitten, and this orange tabby is no exception."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's all for this week's top 5 cutest kittens. Stay tuned for more adorable fur-balls next week!"
+    }
+  ]
+}

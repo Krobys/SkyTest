@@ -1,0 +1,39 @@
+{
+  "id": "1",
+  "headline": "Mysterious Cat Saves Local Family",
+  "heroImage": {
+    "imageUrl": "https://www.thesprucepets.com/thmb/jIEvS_jxy1-M4oLqk6w1ZqfXfWU=/1500x0/filters:no_upscale():strip_icc()/facts-about-tuxedo-cats-554704-hero-6fcf332fd5ee4d93aecc4bcd3657396c.jpg",
+    "accessibilityText": "A mysterious neighborhood cat stands in a heroic pose"
+  },
+  "creationDate": "2023-08-04T00:00:00Z",
+  "modifiedDate": "2023-08-04T00:00:00Z",
+  "contents": [
+    {
+      "type": "paragraph",
+      "text": "A mysterious neighborhood cat has become a local hero after saving a family from a house fire in the small town of Langley. The Smiths, a family of four, were fast asleep when the fire started in the early hours of Tuesday morning."
+    },
+    {
+      "type": "paragraph",
+      "text": "The black and white cat, affectionately known as Whiskers by locals, noticed the smoke from across the street and leapt into action. He ran into the house, waking the family up with his loud meows and persistent scratching."
+    },
+    {
+      "type": "image",
+      "url": "https://www.asbestos.com/wp-content/uploads/house-fire-668x392-c-default.jpg",
+      "accessibilityText": "The Smiths' house with visible fire damage"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the chaos that followed, the Smiths were able to escape the house safely before the fire department arrived. 'If it weren’t for Whiskers, we might not have made it out in time,' Mrs. Smith tearfully told reporters."
+    },
+    {
+      "type": "image",
+      "url": "https://www.thesprucepets.com/thmb/vgvK9_iqmLpIHezaqZ_Mi5evmQM=/1600x0/filters:no_upscale():strip_icc()/black-and-white-cat-breeds-4843190-hero-8ea9ae92c05c46fb9495f789ca595f37.jpg",
+      "accessibilityText": "Whiskers, the heroic black and white cat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the incident, Whiskers has been treated like a local celebrity, with neighbors and the Smith family showering him with treats and affection. This story serves as a heartwarming reminder of the bonds that exist between humans and animals, and the unexpected ways they can save us."
+    }
+  ]
+}
+
